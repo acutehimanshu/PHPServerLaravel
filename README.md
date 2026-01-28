@@ -58,7 +58,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+#Add in ENV File
 Add this in env
 MAIL_MAILER=smtp
 MAIL_HOST=smtp.gmail.com
